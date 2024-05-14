@@ -174,7 +174,8 @@ p {
 footer {
     position: relative;
     bottom: -100px;
-    font-size: .8em;
+    font-size: .7em;
+    
 }
 @media (max-width: 375px) {
     body {
